@@ -1,3 +1,5 @@
+Author : JAYESH PAWAR 
+
 # product-inventory
 A product inventory application made using React JS and JSON server, with features like - user authentication, managing products, with a responsive UI and good UX.
 
